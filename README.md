@@ -1,7 +1,7 @@
 # random-password
 Random password generator
 
-Generate a random password of 8 characters including the following characters:
+Generates a random password of 8 characters that includes the following characters:
 
 - 2 uppercase letters from A to Z
 - 2 lowercase letters from a to z
